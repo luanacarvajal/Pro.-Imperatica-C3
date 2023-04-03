@@ -1,4 +1,8 @@
 
+console.log("hola mundo!")
+console.log("probando git")
+
+
 // Variables -- una caja donde guardamos algo
 
 let nombreUsuario = 'pepito';
@@ -38,4 +42,3 @@ let email = undefined;
 
     let saludo = "hola" + nombre + apellido2 + " como estas?";
     let saludo2 = "hola ${nombre} ${apellido2} como estas?";
-    ``
