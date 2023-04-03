@@ -50,27 +50,27 @@ let email = undefined;
 
     let saludo = "como estas" + nombre;
     let saludo2 = "hola" + nombre + apellido2 + "como estas?"
-    console.log( "saludo2" )
+    console.log( "saludo2" );
     // + - * / %
 
     let num = 10
     let num2 = 2
 
-    console.log(num + num2)
-    console.log(num - mum2)
-    console.log(num * num2)
-    console.log(num / num2)
-    console.log(num % num2)
+    console.log(num + num2);
+    console.log(num - mum2);
+    console.log(num * num2);
+    console.log(num / num2);
+    console.log(num % num2);
 
-    console.log( 29 % 3 )
+    console.log( 29 % 3 );
  // operades de comparaciones ----> develve un booleano
- console.log("--------------------")
+ console.log("--------------------");
  let n1 = 12
  let n2 = 15
 
- console.log( n1 < n2 )
- console.log( n1 > n2 )
- console.log( n1 <= n2 ) 
- console.log( n1 >= n2 )
- console.log(n1 == n2 )
- console.log(n1 != n2 )
+ console.log( n1 < n2 );
+ console.log( n1 > n2 );
+ console.log( n1 <= n2 ); 
+ console.log( n1 >= n2 );
+ console.log(n1 == n2 );
+ console.log(n1 != n2 );
